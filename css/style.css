@@ -93,6 +93,7 @@ nav {
     display: flex;
     list-style: none;
     gap: 40px;
+    margin-left: auto;
     /* Increased gap slightly for better breathing room */
 }
 
